@@ -57,6 +57,8 @@ This project was developed using **Scratch** as part of **CS50 Problem Set 0**, 
 
 ---
 
+<img width="801" height="934" alt="image" src="https://github.com/user-attachments/assets/db1446ef-d029-4c7b-bdf4-a351443bc57c" />
+
 ## 🚀 Author
 
 Developed by **Liandra Monteiro** for **CS50 – Problem Set 0**.
